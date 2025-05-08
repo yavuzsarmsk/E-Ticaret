@@ -1,0 +1,11 @@
+C:\Users\Yavuz\source\repos\Solution2\Shoper.Domain\bin\Debug\net8.0\Shoper.Domain.deps.json
+C:\Users\Yavuz\source\repos\Solution2\Shoper.Domain\bin\Debug\net8.0\Shoper.Domain.dll
+C:\Users\Yavuz\source\repos\Solution2\Shoper.Domain\bin\Debug\net8.0\Shoper.Domain.pdb
+C:\Users\Yavuz\source\repos\Solution2\Shoper.Domain\obj\Debug\net8.0\Shoper.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yavuz\source\repos\Solution2\Shoper.Domain\obj\Debug\net8.0\Shoper.Domain.AssemblyInfoInputs.cache
+C:\Users\Yavuz\source\repos\Solution2\Shoper.Domain\obj\Debug\net8.0\Shoper.Domain.AssemblyInfo.cs
+C:\Users\Yavuz\source\repos\Solution2\Shoper.Domain\obj\Debug\net8.0\Shoper.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Yavuz\source\repos\Solution2\Shoper.Domain\obj\Debug\net8.0\Shoper.Domain.dll
+C:\Users\Yavuz\source\repos\Solution2\Shoper.Domain\obj\Debug\net8.0\refint\Shoper.Domain.dll
+C:\Users\Yavuz\source\repos\Solution2\Shoper.Domain\obj\Debug\net8.0\Shoper.Domain.pdb
+C:\Users\Yavuz\source\repos\Solution2\Shoper.Domain\obj\Debug\net8.0\ref\Shoper.Domain.dll
